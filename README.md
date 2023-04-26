@@ -1,6 +1,10 @@
-### Hi there 👋
+![ANNA BANNER LINKEDIN](https://user-images.githubusercontent.com/117647645/234719149-f818709b-f2db-4d2b-aedc-f98669c8d527.png)
+
+
 
 <!--
+### Hi there 👋
+
 **AnnaSantasusana/AnnaSantasusana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
